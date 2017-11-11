@@ -1312,7 +1312,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/6850.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -1385,7 +1385,7 @@
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
