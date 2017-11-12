@@ -1312,7 +1312,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/6850.jpg");
+		background-image: url("images/overlay.png"), url("../../images/headfoot.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2546,7 +2546,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8cd1a8;
+			background-color: #CFA3D4;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
@@ -2557,7 +2557,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9ed8b6;
+				background-color: #CFA3D4;
 			}
 
 			input[type="submit"].special:active,
